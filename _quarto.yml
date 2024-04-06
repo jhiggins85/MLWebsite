@@ -1,0 +1,26 @@
+
+project:
+  type: website
+
+website:
+  title: "Josh Higgins"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resume/Josh Higgins- Resume 2.pdf
+        text: Resume 
+      - href: blogs.qmd
+        text: Blogs
+      - href: past_projects.qmd
+        text: Past Projects
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+
+
