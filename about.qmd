@@ -1,9 +1,4 @@
 ---
 title: "About"
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
+I am Josh Higgins and I am a Business Analytics major at SIU Carbondale.
